@@ -16,5 +16,5 @@ function leastFavoriteCustomer() {
   const myName = 'Jordan';
 }
 function changeLeastFavoriteCustomer() {
-  myName = 'Brittany';
+  const myName = 'Brittany';
 }
